@@ -25,8 +25,8 @@ Submitted
 # Supporting information 
 Additional information regarding this publication and draft reference genome are in:
 
-- NGS raw data file (NCBI BioProject entry): 
-- The whole-genome shotgun project has been deposited at DDBJ/ENA/GenBank under accession number
+- NGS raw data file (NCBI BioProject entry): PRJNXXXXXX
+- The whole-genome shotgun project has been deposited at DDBJ/ENA/GenBank under accession number: QLNUXXXXX
 
 
 ## Guide on Annotation files
