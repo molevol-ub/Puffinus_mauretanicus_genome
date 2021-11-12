@@ -17,8 +17,10 @@ Copyright (c) 2021 Evolutionary Genomics and Bioinformatics and FiMol Labs, Univ
 # Citation
 
 The genome of the critically endangered seabird _Puffinus mauretanicus_ (Balearic shearwater): a valuable resource for evolutionary and conservation genomics.
+
 Cristian Cuevas-Caballé, Joan Ferrer Obiol, Joel Vizueta, Meritxell Genovart, Jacob Gonzalez-Solís, Marta Riutort, Julio Rozas.
-Submitted
+
+Submitted (2021).
 
 
 
