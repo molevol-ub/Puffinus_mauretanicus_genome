@@ -27,8 +27,9 @@ Submitted (2021).
 # Supporting information 
 Additional information regarding this publication and draft reference genome are in:
 
-- NGS raw data file in the NCBI (BioProject ID PRJNA780920, BioSample ID SUB10672806)
-- The whole-genome shotgun project has been deposited at DDBJ/ENA/GenBank under accession number: QLNUXXXXX
+- NGS raw data file in the  NCBI Sequence Read Archive (SRA): SRR17231300 (ONT), SRR17230447 (RNA-Seq) and SRR17055223 (Illumina).
+- BioProject PRJNA780920 and BioSamples SAMN23492024, SAMN24039388 and SAMN23212142.
+- The whole-genome shotgun project has been deposited at DDBJ/ENA/GenBank under accession number: JAJKFH000000000.
 
 
 ## Guide on Annotation files
